@@ -1,6 +1,6 @@
 # Ayeni Oluwaferanmi Micheal
 
-**Software Engineer · AI Evaluation · Full-Stack Development** · Ibadan, Nigeria
+**Software Engineer · AI Evaluation · Full-Stack Development** · Ibadan, Nigeria · [Portfolio](https://michealjunior.github.io)
 
 I build the coding challenges that test how well frontier AI agents do real software engineering, and I build web products people use.
 
@@ -25,4 +25,4 @@ I build the coding challenges that test how well frontier AI agents do real soft
 
 ## Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/ayeni-oluwaferanmi-668ba6301) · [StarNex](https://starnex.company)
+[Portfolio](https://michealjunior.github.io) · [LinkedIn](https://www.linkedin.com/in/ayeni-oluwaferanmi-668ba6301) · [StarNex](https://starnex.company)
