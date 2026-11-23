@@ -10,11 +10,17 @@ I build the coding challenges that test how well frontier AI agents do real soft
 
 ## Selected work
 
-| Project | What it is | Built with |
+| Project | What it solves | Built with |
 | --- | --- | --- |
-| [StarApp prelaunch site](https://starapp.starnex.company) · [code](https://github.com/StarNex-Company/starapp-landing) | Prelaunch site for StarApp, a talent platform: custom Three.js brand mark, early-access sign-up, automatic deployment | React, Next.js, TypeScript, Tailwind CSS, Three.js, Cloudflare D1 |
-| [StarNex website](https://starnex.company) · [code](https://github.com/StarNex-Company/starnex-landing) | Company site for StarNex's technology, brand, growth and agriculture services | HTML, CSS, JavaScript, GitHub Pages |
-| AI coding benchmarks | 227 challenges built for Shipd by Datacurve, each with a spec, hidden tests, a reference solution and a pinned Docker build (private to the platform) | Python, Rust, Go, TypeScript, Docker |
+| **[tracelens](https://github.com/Michealjunior/tracelens)** · [live](https://michealjunior.github.io/tracelens/) | See what your AI coding agent actually did: timeline, tools, tokens and failures from a session log, privately in the browser | React, TypeScript, Web Workers, SVG |
+| **[promptcheck](https://github.com/Michealjunior/promptcheck)** · [site](https://michealjunior.github.io/promptcheck/) | Regression tests for LLM prompts, with replayable recordings for free CI runs and JUnit, Markdown and HTML reports | Python, PyYAML, pytest |
+| **[repo-doctor](https://github.com/Michealjunior/repo-doctor)** · [live](https://michealjunior.github.io/repo-doctor/) | Audit any GitHub profile the way a recruiter sees it, with a ranked fix list | TypeScript, GitHub REST API |
+| **[nuban-check](https://github.com/Michealjunior/nuban-check)** · [live](https://michealjunior.github.io/nuban-check/) | Validate Nigerian bank account numbers offline and repair payroll files where Excel stripped the leading zeros | TypeScript, zero dependencies |
+| **[naira-invoice](https://github.com/Michealjunior/naira-invoice)** · [live](https://michealjunior.github.io/naira-invoice/) | Professional invoices for Nigerian freelancers: naira, VAT, amount in words, print-ready A4, offline | React, TypeScript, Tailwind CSS, PWA |
+| **[StarNex website](https://starnex.company)** · [code](https://github.com/StarNex-Company/starnex-landing) | Company site for StarNex's technology, brand, growth and agriculture services | HTML, CSS, JavaScript |
+| **[StarApp prelaunch site](https://starapp.starnex.company)** · [code](https://github.com/StarNex-Company/starapp-landing) | Prelaunch site with a Three.js brand mark and early-access sign-up | Next.js, TypeScript, Cloudflare D1 |
+
+Plus 227 AI coding challenges built for Shipd by Datacurve (private to the platform).
 
 ## Skills
 
