@@ -12,15 +12,17 @@ I build the coding challenges that test how well frontier AI agents do real soft
 
 | Project | What it solves | Built with |
 | --- | --- | --- |
-| **[tracelens](https://github.com/Michealjunior/tracelens)** · [live](https://michealjunior.github.io/tracelens/) | See what your AI coding agents actually did: session logs and evaluation run bundles, runs compared side by side with verdicts, tests and patches | React, TypeScript, Web Workers, SVG |
-| **[promptcheck](https://github.com/Michealjunior/promptcheck)** · [site](https://michealjunior.github.io/promptcheck/) | Regression tests for LLM prompts, with replayable recordings for free CI runs and JUnit, Markdown and HTML reports | Python, PyYAML, pytest |
+| **tracelens** · [live](https://tracelens-app.vercel.app/) | See what your AI coding agents actually did: session logs and evaluation run bundles, runs compared side by side with verdicts, tests and patches | React, TypeScript, Web Workers, SVG |
+| **[promptcheck](https://github.com/Michealjunior/promptcheck)** · [site](https://promptcheck-app.vercel.app/) | Regression tests for LLM prompts, with replayable recordings for free CI runs and JUnit, Markdown and HTML reports | Python, PyYAML, pytest |
 | **seqcast** · [live](https://seqcast.vercel.app/?demo) | Forecasts how long an AI coding agent's run will be from a task and its reference solution: range, chance of reaching a target length, drivers (private code, server-side engine) | TypeScript, React, Vercel Functions |
-| **[repo-hub](https://github.com/Michealjunior/repo-hub)** · [live](https://michealjunior.github.io/repo-hub/?demo) | Scout open-source repos and design fair, hard benchmark tasks for AI coding agents: gates, testability, merged-PR mining, spec and audit | React, TypeScript, GitHub API |
-| **[repo-doctor](https://github.com/Michealjunior/repo-doctor)** · [live](https://michealjunior.github.io/repo-doctor/) | Audit any GitHub profile the way a recruiter sees it, with a ranked fix list | TypeScript, GitHub REST API |
-| **[nuban-check](https://github.com/Michealjunior/nuban-check)** · [live](https://michealjunior.github.io/nuban-check/) | Validate Nigerian bank account numbers offline and repair payroll files where Excel stripped the leading zeros | TypeScript, zero dependencies |
-| **[naira-invoice](https://github.com/Michealjunior/naira-invoice)** · [live](https://michealjunior.github.io/naira-invoice/) | Professional invoices for Nigerian freelancers: naira, VAT, amount in words, print-ready A4, offline | React, TypeScript, Tailwind CSS, PWA |
+| **repo-hub** · [live](https://repo-hub-app.vercel.app/?demo) | Scout open-source repos and design fair, hard benchmark tasks for AI coding agents: gates, testability, merged-PR mining, spec and audit | React, TypeScript, GitHub API |
+| **repo-doctor** · [live](https://repo-doctor-app.vercel.app/) | Audit any GitHub profile the way a recruiter sees it, with a ranked fix list | TypeScript, GitHub REST API |
+| **nuban-check** · [live](https://nuban-check.vercel.app/) | Validate Nigerian bank account numbers offline and repair payroll files where Excel stripped the leading zeros | TypeScript, zero dependencies |
+| **naira-invoice** · [live](https://naira-invoice-app.vercel.app/) | Professional invoices for Nigerian freelancers: naira, VAT, amount in words, print-ready A4, offline | React, TypeScript, Tailwind CSS, PWA |
 | **[StarNex website](https://starnex.company)** · [code](https://github.com/StarNex-Company/starnex-landing) | Company site for StarNex's technology, brand, growth and agriculture services | HTML, CSS, JavaScript |
 | **[StarApp prelaunch site](https://starapp.starnex.company)** · [code](https://github.com/StarNex-Company/starapp-landing) | Prelaunch site with a Three.js brand mark and early-access sign-up | Next.js, TypeScript, Cloudflare D1 |
+
+Every tool above is free to use at its live link. Source code is private, except promptcheck.
 
 Plus 227 AI coding challenges built for Shipd by Datacurve (private to the platform).
 
