@@ -1,6 +1,6 @@
 # Ayeni Oluwaferanmi Micheal
 
-**Software Engineer · AI Evaluation · Full-Stack Development** · Ibadan, Nigeria · [Portfolio](https://michealjunior.github.io)
+**Software Engineer · AI Evaluation · Full-Stack Development** · Ibadan, Nigeria · [Portfolio](https://starjnrdev.github.io)
 
 I build the coding challenges that test how well frontier AI agents do real software engineering, and I build web products people use.
 
@@ -13,7 +13,7 @@ I build the coding challenges that test how well frontier AI agents do real soft
 | Project | What it solves | Built with |
 | --- | --- | --- |
 | **tracelens** · [live](https://tracelens-app.vercel.app/) | See what your AI coding agents actually did: session logs and evaluation run bundles, runs compared side by side with verdicts, tests and patches | React, TypeScript, Web Workers, SVG |
-| **[promptcheck](https://github.com/Michealjunior/promptcheck)** · [site](https://promptcheck-app.vercel.app/) | Regression tests for LLM prompts, with replayable recordings for free CI runs and JUnit, Markdown and HTML reports | Python, PyYAML, pytest |
+| **[promptcheck](https://github.com/StarJnrDev/promptcheck)** · [site](https://promptcheck-app.vercel.app/) | Regression tests for LLM prompts, with replayable recordings for free CI runs and JUnit, Markdown and HTML reports | Python, PyYAML, pytest |
 | **seqcast** · [live](https://seqcast.vercel.app/?demo) | Forecasts how long an AI coding agent's run will be from a task and its reference solution: range, chance of reaching a target length, drivers (private code, server-side engine) | TypeScript, React, Vercel Functions |
 | **repo-hub** · [live](https://repo-hub-app.vercel.app/?demo) | Scout open-source repos and design fair, hard benchmark tasks for AI coding agents: gates, testability, merged-PR mining, spec and audit | React, TypeScript, GitHub API |
 | **repo-doctor** · [live](https://repo-doctor-app.vercel.app/) | Audit any GitHub profile the way a recruiter sees it, with a ranked fix list | TypeScript, GitHub REST API |
@@ -35,4 +35,4 @@ Plus 227 AI coding challenges built for Shipd by Datacurve (private to the platf
 
 ## Get in touch
 
-[Portfolio](https://michealjunior.github.io) · [LinkedIn](https://www.linkedin.com/in/ayeni-oluwaferanmi-668ba6301) · [StarNex](https://starnex.company)
+[Portfolio](https://starjnrdev.github.io) · [LinkedIn](https://www.linkedin.com/in/ayeni-oluwaferanmi-668ba6301) · [StarNex](https://starnex.company)
