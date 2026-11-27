@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" width="240" height="56" xml:space="preserve" role="img" aria-label="RÉSUMÉ"><title>RÉSUMÉ</title><style>@font-face{font-family:'m7x';src:url(data:font/woff2;base64,d09GMgABAAAAAAM0AA8AAAAABbQAAALeAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEwAVBEICoN8gyIBNgIkAyQLFAAEIAV6ByAbQQRRlA/GRYCfCdkc6jqdQATDgEulU2OpRn7T8TeejYfn176d+2a+DyLua4mIhwSlk/C2lWpVrEFa+ck/fT/xXZKNLiBO8gQPozjLt7Zelua/bVnmxMoOnJO31glUig0x2yJ1uplN8AJVwAc80EFPeAC9HlKvlLeorTleXkCgACQhKQuBuuFGivUbt+9XlUM3QKBuoskSs1nP62eabhpMAs7n6XB6pUR6ktKxrd4eJ80NfxI1ps38wK1r8c5o7VlH1yNZR1gjIE1MBKOVhFCV0F/CeKn10uWmwJWmM9ejl5AbLEGU0yvSYdJfZEKK3iBAQob+MoH+cqtRqEpyo+2wzwHt3Ujgve91f7OFoDIE8DS9EGqgL+p4hlcoUICMJ0IC4rHIs6wY0Ys7rW+dgZl8RiGfWVzF61oonPrah1OW1oSLG+o0zEDUwIsx1Okoc+kpBCAYrcf+x/CMuEQ0enLigRq4R6hg5PlZh/ufsvLCNVXmZYMvUhCyHLmE/nOXlBE84jOKiRn9d9Ns/tPHrjScnEk2SY6DtZffv5WnNaSTnRqvE0m15NmrBtzJXOj3+ptC8TYT9D1HWt4dmS3sFlThVpDeWJwewi3lNDPbXN8hmnxHVLp45QeGh9c8TzmN9WozdFOVLvtOzgculWDDjapx8MwW9Nj4O7q7nlsbtzuSRCnC7IYEX7esUofQyq5qyOqxqndyyLE0DVemilOFWfVJvl65VU6KTKtVtTVdqN+vzV/i6BDhXOutX2htUoybWjH64M6o8kSBsupco+EwqWf28mu/QFqYq19M/cvrtfxflZ59h08ft5/Dt1mrv2Fx9/9kk+2gLIHgj+bpMIF37VwRbKqlw44qObyBxcB2YAmw+ZPgg0DNNJne0jt2pi5ZKxN5re1JLwoKPcmyqqFkL4WxX1ZvdTPtdcElza47465DLrjiksuarHXLdedt0eSM6644Z69bbjjjpgzozlwEAw==) format('woff2');font-weight:700}
+.m7{font-family:'m7x','JetBrains Mono', ui-monospace, Menlo, Consolas, monospace;font-weight:700}
+.reveal{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.fade{animation:fade .6s ease-out both}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}
+@keyframes pulse{0%{opacity:.85;transform:scale(1)}100%{opacity:0;transform:scale(3.2)}}
+.blink{animation:blink 1.05s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.scan{animation:scan 7s linear infinite}
+@keyframes scan{from{transform:translateY(-120px)}to{transform:translateY(var(--h))}}
+.sweep{animation:sweep 6s ease-in-out infinite}
+@keyframes sweep{0%,55%{transform:translateX(-40%)}100%{transform:translateX(140%)}}
+.travel{animation:travel 4.5s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes travel{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 3s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs><clipPath id="bc"><path d="M0 0H228L240 12V56H12L0 44Z"/></clipPath><linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity="0.1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs><path d="M.75 .75H227.7L239.25 12.3V55.25H12.3L.75 43.7Z" fill="#04070a" stroke="#00ff9d" stroke-opacity=".55" stroke-width="1.5"/><g clip-path="url(#bc)"><rect class="sweep" x="0" y="0" width="90" height="56" fill="url(#sh)"/></g><text x="79.9" y="33" class="m7" font-size="13.5" fill="#00ff9d" letter-spacing="1.6">RÉSUMÉ</text><path d="M152.1 23V35M147.3 30.2L152.1 35L156.9 30.2" fill="none" stroke="#00ff9d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
